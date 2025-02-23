@@ -121,7 +121,7 @@ public class YourService {
 ### Building from Source
 
 ```bash
-git clone https://github.com/rb/edi-task-execution-engine.git
+git clone (https://github.com/micfold/TaskExecutionEngine.git)
 cd edi-task-execution-engine
 mvn clean install
 ```
